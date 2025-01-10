@@ -1,0 +1,7 @@
+
+Enter_num=int(input("Please enter the number: "))
+
+if (Enter_num%2==0):
+    print("EVEN")
+else:
+    print("ODD")
